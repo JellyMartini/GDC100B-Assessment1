@@ -1,0 +1,3 @@
+[submodule "GDC100B"]
+	path = GDC100B
+	url = https://github.com/JellyMartini/GDC100B.git
